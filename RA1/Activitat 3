@@ -1,0 +1,4 @@
+nom = ("Cristian")
+edat = 18
+ciutat = ("Ascó")
+print(f"Em dic {nom}, tinc {edat} anys i visc a {ciutat}.")

@@ -1,0 +1,4 @@
+edat = 18
+any_de_neixement = 2007
+print (edat)
+print (any_de_neixement)

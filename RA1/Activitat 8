@@ -1,0 +1,4 @@
+print("Introdueix un número:")
+num1 = int(input())
+quadrat = (num1 * 2)
+print(f"El quadrat de {num1} es {quadrat}")
