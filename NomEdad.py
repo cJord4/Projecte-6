@@ -1,0 +1,1 @@
+print ("Hem dic Cristian i tinc 18 anys")
