@@ -1,0 +1,5 @@
+a = int(input("Introdueix un número: "))
+if a % 2 == 0:
+    print(f"El número {a} es parell")
+else:
+    print(f"El número {a} es senar")

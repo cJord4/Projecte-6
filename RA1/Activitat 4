@@ -1,0 +1,4 @@
+edat = 18
+print (edat)
+edat = 16 + 67
+print (edat)

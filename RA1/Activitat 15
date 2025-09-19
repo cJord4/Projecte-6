@@ -1,0 +1,7 @@
+# 15. Demana la distància en quilòmetres i el temps en hores, i calcula la velocitat mitjana.
+print ("Introdueix la distancia en quilometres")
+distancia = float(input())
+print ("Introdueix el temps en hores")
+temps = float(input())
+velocitat = distancia / temps
+print (f"La velocitat mitjana es {velocitat} km/h")
