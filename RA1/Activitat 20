@@ -1,0 +1,6 @@
+# 20. Demana el nombre de minuts i converteix-lo a hores i minuts. (Ex: 135 minuts → 2 hores
+# i 15 minuts)
+minuts = int(input("Introdueix el nombre de minuts: "))
+hores = minuts // 60
+minuts_restants = minuts % 60
+print(f"{minuts} minuts → {hores} hores i {minuts_restants} minuts")

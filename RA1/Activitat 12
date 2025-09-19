@@ -1,0 +1,4 @@
+print ("Introdueix el radi de la circumferencia")
+radi = int(input())
+area = 3.14 * radi * radi
+print (f"L'area de la circumferencia es {area}")
