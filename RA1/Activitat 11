@@ -1,3 +1,0 @@
-print ("Introdueix el teu nom")
-nom = input()
-print (f"Bon dia {nom}!")

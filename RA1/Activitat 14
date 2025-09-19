@@ -1,4 +1,0 @@
-print ("Introdueix el preu del producte al cual vols afegir l'IVA")
-preu = float(input())
-preuFinal = preu * 1.21
-print (f"El preu final amb IVA es {preuFinal}")

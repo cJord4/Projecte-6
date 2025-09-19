@@ -1,4 +1,0 @@
-# 17. Demana a l’usuari quants dies té de vacances i mostra quantes hores són en total.
-diesVacances = int(input("Introdueix quants dies de vacances tens: "))
-horesVacances = diesVacances * 24
-print(f"Tens {horesVacances} hores de vacances.")

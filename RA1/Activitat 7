@@ -1,6 +1,0 @@
-print("Introdueix el primer número:")
-num1 = int(input())
-print("Introdueix el segon número:")
-num2 = int(input())
-resta = (num1 - num2)
-print(f"El resultat es {resta}")

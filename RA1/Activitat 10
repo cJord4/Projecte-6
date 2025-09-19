@@ -1,8 +1,0 @@
-print ("Intrduiex la primera edad")
-num1 = int(input())
-print ("Intrduiex la segona edad")
-num2 = int(input())
-if num1>num2:
-    print ("La primera edad es major que la segona")
-else:
-    print ("La segona edad es major que la primera")
